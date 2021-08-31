@@ -1,4 +1,4 @@
-﻿{
+{
   "lang": "Polski",
   "about": "O programie",
   "active files": "Pliki aktywne",
@@ -203,4 +203,7 @@
   "connecting": "Połączenie",
   "file has been deleted": "{file} został usunięty!",
   "feature not available": "Ta funkcja jest dostępna tylko w płatnej wersji aplikacji."
+  "deleted file": "Usunięty plik",
+  "line height": "Wysokość wiersza",
+  "preview info": "Jeśli chcesz uruchomić aktywny plik, dotknij i przytrzymaj ikonę odtwarzania."
 }
